@@ -1,4 +1,4 @@
-# Expense Splitter App
+# Tharun-Expense Splitter App
 
 A full-stack web application to add, split, and track expenses among multiple users.
 
